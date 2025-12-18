@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Lioness’ Pride",
+  "base_artist": "獅白ぼたん",
+  "createdAt": "2025-12-18T02:02:51.496207Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lioness’ Pride",
+      "artist": "獅白ぼたん",
+      "has_synced": true,
+      "path": "select/01_Lioness’_Pride_獅白ぼたん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lioness' Pride",
+      "artist": "獅白ぼたん",
+      "has_synced": false,
+      "path": "select/pl_01_Lioness'_Pride_獅白ぼたん.txt"
+    }
+  ]
+}
